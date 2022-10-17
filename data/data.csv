@@ -1,0 +1,4 @@
+,refresh the predicted weather(1),CRUD plots(2),edit the parameters of a plot (current season)(3),sort my plots in the list(4),filter my plots in the list(5),export observation data for a plot(6),know when my plots will be in danger(7),manage my irrigations and recommendations in my favorite unit(8),choose my preferred irrigation unit in my user-settings(9),view my irrigation recommendations in my favorite unit(10),WeatherManagement,PlotManagement,IrrigationManagement
+Vine,x,x,x,,,x,x,,x,x,x,x,x
+Orchard,x,x,x,x,x,,x,,,,x,x,
+Almond,,x,,,,,,x,,x,,x,x
