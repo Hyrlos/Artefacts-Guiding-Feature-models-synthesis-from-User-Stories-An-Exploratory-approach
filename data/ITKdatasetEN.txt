@@ -1,0 +1,127 @@
+As an admin I can assign (unassign) a season to a user.
+As admin I can manage the seasons of the application (CRUD)
+As an admin I want to be able to recover data from a plot deleted by the user
+As an administrator, I have access to the plots of another account
+As an administrator, I can associate seasons with an account
+As an administrator, I can create an account
+As an analyst, I can have all the information associated with a block for the current season
+As an observer, I can delete an observation
+As an Almonds user, I can enter irrigations with different irrigation systems and view them
+As an Almonds user, I can specify the characteristics of the irrigation systems of my plot in the user-settings
+As an Almonds user, I can specify the parameters of my irrigation system in the settings
+As a Cropwin/Presto/Banana user, I don't have access to the Vintel freemium offer
+As an authenticated Presto user, I can create a block
+As a Vine or Almond user, I use MDA World weather data
+As a Vine or Almond user, I manage my irrigations and recommendations in my favorite unit
+As a Vine or Almond user, I can choose my preferred irrigation unit in my user-settings
+As a Vine or Almond user, I can upload a csv file with my irrigations and my potential measurements
+As a Vine or Almond user, I enter my irrigations in my preferred unit
+As a Vine or Almond user, I view my irrigation recommendations in my favorite unit
+As a Presto user, I have a URL that takes me to a login page
+As a Presto user, I can link a block to a Sensors weather station
+As a Vintel Vigne user, I see the impact of heat waves (HW) - Part 2
+As a user without a plot, I am redirected to the plot creation page when I log in
+As a user, I have access to the sensors (WS, FM, ...) visible to my group
+As a user, I have access to the main indicators in the popup
+As a user, I have access to explicit error messages
+As a user, I have access to the application in Spanish
+As a user, I have access to the application in Spanish, Italian and German version
+As a user, I have access to several crops (corn, wheat)
+As a user, I have access to several crops (peach, apricot...)
+As a user, I have access to a rain accumulation indicator
+As a user, I have access to a FAQ type help menu
+As a user, I have access to help in the form of pop-up tooltips
+As a user, I need to be able to access the application in several languages
+As a user, I can activate my season n+1 in advance (during season n)
+As a user, I can activate a new season for my plot
+As a user, I can add a new season with a different crop from the past season
+As a user I can add/edit a banana plot
+As a user, I can know the agro-economic indicators of my plot
+As a user, I can convert several "recommended" irrigations into "actual" irrigations
+As a user, I can manually correct the rainfall
+As a user, I can create weather stations (WS) available for my farms (creation 2/2)
+As a user, I can create a variety
+As a user, I can duplicate seasonal settings from one season to another
+As a user, I can define my stress zones
+As a user, I can export observation data for a plot
+As a user, I can export phytosanitary treatment data for a plot
+As a user, I can filter my interventions by type in the list of interventions
+As a user, I can filter my plots in the list
+As a user I can force the FTSW
+As a user, I can force the dates of the phenological stages
+As a user, I can manage my interventions
+As a user, I can manage my interventions (irrigation, potential measurement, obs)
+As a user, I can manage a plot of corn silage
+As a user, I can indicate when there is a job change
+As a user, I can login to the application
+As a user, I can modify the display period of my graphs (zoom)
+As a user, I can change my settings (language, units, ...)
+As a user, I can take notes/observations on my plot
+As a user, I can reset my password
+As a user, I can enter comments
+As a user I can enter NFF/NFR observations
+As a user, I can delete a parcel
+As a user, I can delete a banana plot
+As a user, I can select my favorite stress indicator
+As a user, I can sort my plots in the list
+As a user, I can view main information about my plot (expert view)
+As a user, I can view irrigation recommendations for the next 2 weeks
+As a user, I can visualize the evolution of NFR and NFF
+As a user, I can view the list of my interventions
+As a user, I can view data from different seasons
+As a user, I can view past seasons of my plots
+As a user, I can view my parcel in the list of parcels
+As a user, I can view my plot on a map
+As a user I can view my irrigation data from flow meter
+As a user, I can view my observations and treatments in a list
+As a user, I can view condensed information of my plot on the map
+As a user, I can view weekly productions from past seasons
+As a user, I can edit the parameters of a plot (current season)
+As a user, I can edit the parameters of a plot from a past season
+As a user, I visualize the emergency state of the phyto treatment (R,Y,G color)
+As a user, I visualize the evolution of the indicators of my plot on graphs
+As a user, I visualize the pre-climacteric phase on the interface
+As a user, I see my past, current and future plots (plotlist, dashboard)
+As a customer, I can export EE,PJFT,PJFN and REF data in CSV format
+As a Lallemand sales representative, I am alerted to the risks of heat stress (THI) on the farms I manage.
+As an advisor I can CRUD holdings and accounts (admin)
+As an advisor, I can CRUD plots
+As an advisor, I can alert my producers in the event of a risk on their plots
+As an advisor, I can force the phenological stages of my plots (bud burst and flowering)
+As an advisor, I can configure the types of protection I want to simulate
+As an advisor, I can view different types of risk/indicators on my plots
+As an advisor, I can visualize the effectiveness of the protections of the plots that I manage
+As an advisor, I can view the weather data for a parcel (v2)
+As an advisor, I can view the number of plots at risk over the next few days
+As an advisor, I know when my plots will be in danger (blocklist)
+As an advisor, I know when my plots are in danger (excess heat, drought)
+As a distributor, I have access to an aggregated view of the parcels I manage
+As a new user, I must validate the T&Cs during my first connection to the application
+As a Pink Lady grower, I have access to a color index of my apple plot
+As an apple grower, I can manage the irrigation of my plots
+As a producer, I have access to a chew sensitivity indicator
+As a producer, I can enter the color indicator that I observed
+As a producer, I can view my plots and enter only treatments
+As a producer, I receive an alert as soon as a loss of production is detected (automatically).
+As a producer, I view the history of color indicators from previous seasons
+As a Cercoban manager, I have access to a contamination level map
+As an Almonds simulator, I take into account the Distribution Uniformity in the calculation of the recommendations
+As a support, I can copy parcels (+associated interventions) from one farm to another
+As a Guadeloupean technician, I can enter up to 2 weekly emission sheets per banana tree
+As a replacement technician, I need to be guided to find my plot
+As a technician, I can add remarks on the plots observed
+As a technician, I can add/edit a phytosanitary treatment
+As a technician, I can remove a banana tree from my observation in the batch of 10
+As a technician, I can geolocate my position when creating my plot
+As a technician, I can identify my banana trees on my plot
+As a technician, I can enter observations offline
+line (and synchronize them when I find the network)
+As a technician, I can remove a phytosanitary treatment
+As a Presto tester, I have blocks/plots with realistic realized production data for the current season and for past seasons
+As support, I can create "PL admin", "distributor", "technician", "producer" accounts
+as a Presto user, when I go to a block's details, I can see a graph of weekly productions for the current season
+as a Presto user, I can see my block info on the map pop-up
+as a Presto user, I can see the produced productions in the second tab on the right of the detailed view
+as a Presto user, I can see the production forecast on the right tab of the detail view
+as a user, I can enter the weekly productions of my blocks
+as a user, I can see a summary of my info on the block list (left)
