@@ -1,14 +1,13 @@
-# author : Liam RICE
 
 from enum import Enum
 
 import math
-from libLiam.data_structures import *
-from libLiam.feature_model import *
-from libLiam.preprocessing import *
-from libLiam.cluster import *
-from libLiam.model import *
-from libLiam.dataset import *
+from libForClustering.data_structures import *
+from libForClustering.feature_model import *
+from libForClustering.preprocessing import *
+from libForClustering.cluster import *
+from libForClustering.model import *
+from libForClustering.dataset import *
 from gensim.models.doc2vec import TaggedDocument
 
 
@@ -461,9 +460,9 @@ if __name__ == '__main__':
 
 	# fetching dataset
 	#	documents = dataset.read_unformatted_from_file("data/user_story_datasets/g03-loudoun.txt")
-	documents = dataset.read_unformatted_from_file("data/user_story_datasets/ITKdatasetEN.txt")
+	documents = dataset.read_unformatted_from_file("data/user_story_datasets/datasetEN.txt")
 	# building tree
-	tree = fp.user_stories_to_feature_model(documents, "ITKdatasetEN")
+	tree = fp.user_stories_to_feature_model(documents, "datasetEN")
 
 	# writing tree data as UML
 	try:

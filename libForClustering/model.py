@@ -1,4 +1,3 @@
-# author : Liam RICE
 
 """
 ## This module handles models used for classifying or vectorising data.
@@ -19,7 +18,7 @@ from gensim.models.lsimodel import LsiModel
 from gensim.models.word2vec import Word2Vec
 from gensim.models.doc2vec import Doc2Vec
 from gensim.interfaces import TransformedCorpus
-from libLiam.data_structures import Documents
+from libForClustering.data_structures import Documents
 
 
 

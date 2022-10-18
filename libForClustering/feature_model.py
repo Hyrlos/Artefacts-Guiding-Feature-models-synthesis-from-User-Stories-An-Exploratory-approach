@@ -1,4 +1,3 @@
-# author : Liam RICE
 
 from enum import Enum
 

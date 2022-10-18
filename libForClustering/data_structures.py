@@ -1,4 +1,3 @@
-# author : Liam RICE
 
 """
 ## This module contains key data structures used in the rest of the scripts.

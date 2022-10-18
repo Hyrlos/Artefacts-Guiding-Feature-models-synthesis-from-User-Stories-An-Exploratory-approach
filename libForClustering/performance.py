@@ -1,12 +1,10 @@
-# author : Liam RICE
-
 """
 ## This module provides performance analytics on various aspects of the classification.
 """
 
-from libLiam.dataset import Dataset
-from libLiam.preprocessing import Preprocessing
-from libLiam.model import Model
+from libForClustering.dataset import Dataset
+from libForClustering.preprocessing import Preprocessing
+from libForClustering.model import Model
 from gensim.models import CoherenceModel
 import numpy as np
 

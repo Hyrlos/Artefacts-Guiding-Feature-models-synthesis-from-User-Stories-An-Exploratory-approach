@@ -1,4 +1,3 @@
-# author : Liam RICE
 
 """
 ## This module handles all the clustering methods for document vectors.
@@ -12,9 +11,9 @@ import matplotlib.pyplot as plt
 from gensim.similarities.docsim import MatrixSimilarity
 from nltk.cluster import KMeansClusterer
 import nltk
-from libLiam.data_structures import Documents, Document
-from libLiam.model import Model
-from libLiam.performance import Performance
+from libForClustering.data_structures import Documents, Document
+from libForClustering.model import Model
+from libForClustering.performance import Performance
 
 
 

@@ -1,4 +1,3 @@
-# author : Liam RICE
 
 import unittest
 from dataset import Dataset

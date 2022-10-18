@@ -1,4 +1,3 @@
-# author : Liam RICE
 
 """
 ## This module provides access to preprocessing functions, formatting data for use in various models.
@@ -13,11 +12,11 @@ from gensim.models.phrases import Phrases, ENGLISH_CONNECTOR_WORDS
 from gensim.interfaces import TransformedCorpus
 import nltk
 from gensim import corpora
-from libLiam.data_structures import *
-from libLiam.dataset import Dataset
+from libForClustering.data_structures import *
+from libForClustering.dataset import Dataset
 import spacy
 from nltk import Tree
-from libLiam.model import Model
+from libForClustering.model import Model
 import nltk.corpus
 from nltk.corpus import wordnet
 

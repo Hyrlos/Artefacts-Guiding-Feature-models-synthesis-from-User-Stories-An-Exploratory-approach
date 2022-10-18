@@ -1,18 +1,12 @@
-As a Farmer, I can refresh the predicted weather
-As a Farmer, I can update manually the past weather
-As a Farmer, I can view data from different seasons
-As a Farmer, I can CRUD plots
-As a Farmer, I can edit the parameters of a plot (current season)
-As a Farmer, I can sort my plots in the list
-As a Farmer, I can filter my plots in the list
-As a Farmer, I can export observation data for a plot
-As a Farmer, I know when my plots will be in danger
-As a Farmer, I can manage my irrigations and recommendations in my favorite unit
-As a Farmer, I choose my preferred irrigation unit in my user-settings
-As a Farmer, I can upload a csv file with my irrigations and my potential measurements
-As a Farmer, I can enter my irrigations in my preferred unit
-As a Farmer, I can view my irrigation recommendations in my favorite unit
-As a Admin, I can CRUD a farmer
-As a Admin, I want to be able to recover data from a plot deleted by the farmer
-As a Admin, I can relaunch all failed simulation
-As a Admin, I can launch a specific simulation
+As a farmer, I can refresh the predicted weather
+As a farmer, I can CRUD plots
+As a farmer, I can edit the parameters of a plot (current season)
+As a farmer, I can sort my plots in the list
+As a farmer, I can filter my plots in the list
+As a farmer, I can export observation data for a plot
+As a farmer, I know when my plots will be in danger
+As a farmer, I can manage my irrigations and recommendations in my favorite unit
+As a farmer, I choose my preferred irrigation unit in my user-settings
+As a farmer, I can view my irrigation recommendations in my favorite unit
+As a admin, I can CRUD a farmer
+As a admin, I can relaunch all failed simulation

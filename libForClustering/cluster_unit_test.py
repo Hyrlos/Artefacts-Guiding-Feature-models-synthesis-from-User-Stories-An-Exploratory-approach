@@ -1,4 +1,3 @@
-# author : Liam RICE
 
 """
 This module runs tests for the `src.cluster` module.

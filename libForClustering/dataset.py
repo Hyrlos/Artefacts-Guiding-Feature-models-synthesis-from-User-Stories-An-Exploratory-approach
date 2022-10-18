@@ -1,10 +1,8 @@
-# author : Liam RICE
-
 """
 ## This module provides access to functions that fetch, read and write documents to and from various locations such as GitLab or local files.
 """
 
-from libLiam.data_structures import Issue, Document, Documents
+from libForClustering.data_structures import Issue, Document, Documents
 import gitlab
 
 class Dataset:
