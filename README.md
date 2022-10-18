@@ -1,6 +1,6 @@
 # Artefact for the article: Guiding-Feature-models-synthesis-from-User-Stories-An-Exploratory-approach
-The main file is **FCA-RCA-FM.ipynb**. A source file write in python3 with jupyter notebook.  
-The detailed table are available in **TablesUStoFM.ods** (open with LibreOffice Calc).  
+The main file is **FCA-RCA-FM.ipynb**. A source file written in python3 with jupyter notebook.  
+The detailed tables are available in **TablesUStoFM.ods** (open with LibreOffice Calc).  
 
 ## Depedency (exported from a virtual environement using jupyter notebook):  
 absl-py==0.13.0
